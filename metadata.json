@@ -1,0 +1,6 @@
+{
+  "name": "BloodConnect",
+  "description": "Connecting donors. Supporting lives. Modern blood donation and request coordination platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
